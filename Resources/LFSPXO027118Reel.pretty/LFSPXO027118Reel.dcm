@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LFSPXO027118Reel
+D Standard Clock Oscillators 16MHz 5V 100ppm -40C +85C
+K
+F https://componentsearchengine.com/Datasheets/1/LFSPXO027118Reel.pdf
+$ENDCMP
+#
+#End Doc Library

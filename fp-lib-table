@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Resources/Type-C.pretty)(options "")(descr ""))
+  (lib (name LFSPXO027118Reel)(type KiCad)(uri ${KIPRJMOD}/Resources/LFSPXO027118Reel.pretty)(options "")(descr ""))
+  (lib (name CB3-3I-16M0000)(type KiCad)(uri ${KIPRJMOD}/Resources/CB3-3I-16M0000.pretty)(options "")(descr ""))
+  (lib (name extra)(type KiCad)(uri ${KIPRJMOD}/Resources/extra.pretty)(options "")(descr ""))
+)
