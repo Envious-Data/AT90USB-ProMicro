@@ -545,20 +545,24 @@ Text GLabel 7450 2450 0    50   Input ~ 0
 PB5
 Text GLabel 7450 2550 0    50   Input ~ 0
 PB4
-Text GLabel 6350 1850 0    50   Input ~ 0
+Text GLabel 6350 1450 0    50   Input ~ 0
 PC2
-Text GLabel 6350 1950 0    50   Input ~ 0
+Text GLabel 6350 1550 0    50   Input ~ 0
 PD0
-Text GLabel 6350 2050 0    50   Input ~ 0
+Text GLabel 6350 1850 0    50   Input ~ 0
 PD1
-Text GLabel 6350 2150 0    50   Input ~ 0
+Text GLabel 6350 1950 0    50   Input ~ 0
 PD2
-Text GLabel 6350 2250 0    50   Input ~ 0
+Text GLabel 6350 2050 0    50   Input ~ 0
 PD3
-Text GLabel 6350 2350 0    50   Input ~ 0
+Text GLabel 6350 2150 0    50   Input ~ 0
 PD4
-Text GLabel 6350 2450 0    50   Input ~ 0
+Text GLabel 6350 2250 0    50   Input ~ 0
 PD5
-Text GLabel 6350 2550 0    50   Input ~ 0
+Text GLabel 6350 2350 0    50   Input ~ 0
 PD6
+Text GLabel 6350 2450 0    50   Input ~ 0
+PD7
+Text GLabel 6350 2550 0    50   Input ~ 0
+PB0
 $EndSCHEMATC

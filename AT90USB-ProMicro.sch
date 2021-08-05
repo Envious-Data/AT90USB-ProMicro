@@ -565,4 +565,21 @@ Text GLabel 6350 2450 0    50   Input ~ 0
 PD7
 Text GLabel 6350 2550 0    50   Input ~ 0
 PB0
+Text GLabel 6350 2850 0    50   Input ~ 0
+PB1
+Text GLabel 6350 2950 0    50   Input ~ 0
+PB2
+Text GLabel 6350 3050 0    50   Input ~ 0
+PB3
+$Comp
+L Connector_Generic:Conn_01x03 J3
+U 1 1 610C3681
+P 6550 2950
+F 0 "J3" H 6630 2992 50  0000 L CNN
+F 1 "Conn_01x03" H 6630 2901 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6550 2950 50  0001 C CNN
+F 3 "~" H 6550 2950 50  0001 C CNN
+	1    6550 2950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
