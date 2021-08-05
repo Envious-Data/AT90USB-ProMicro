@@ -565,4 +565,54 @@ Text GLabel 6350 2450 0    50   Input ~ 0
 PD7
 Text GLabel 6350 2550 0    50   Input ~ 0
 PB0
+Text GLabel 6350 2850 0    50   Input ~ 0
+PB1
+Text GLabel 6350 2950 0    50   Input ~ 0
+PB2
+Text GLabel 6350 3050 0    50   Input ~ 0
+PB3
+$Comp
+L Connector_Generic:Conn_01x03 J3
+U 1 1 610C3681
+P 6550 2950
+F 0 "J3" H 6630 2992 50  0000 L CNN
+F 1 "Conn_01x03" H 6630 2901 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6550 2950 50  0001 C CNN
+F 3 "~" H 6550 2950 50  0001 C CNN
+	1    6550 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR?
+U 1 1 610C1571
+P 2850 1900
+F 0 "#PWR?" H 2850 1750 50  0001 C CNN
+F 1 "VBUS" V 2865 2028 50  0000 L CNN
+F 2 "" H 2850 1900 50  0001 C CNN
+F 3 "" H 2850 1900 50  0001 C CNN
+	1    2850 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_Small D1
+U 1 1 610C23BA
+P 2950 1900
+F 0 "D1" H 2950 1693 50  0000 C CNN
+F 1 "0402 LED" H 2950 1784 50  0000 C CNN
+F 2 "LED_SMD:LED_0402_1005Metric" V 2950 1900 50  0001 C CNN
+F 3 "~" V 2950 1900 50  0001 C CNN
+	1    2950 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 610C2E7E
+P 3050 1900
+F 0 "#PWR?" H 3050 1650 50  0001 C CNN
+F 1 "GND" V 3055 1772 50  0000 R CNN
+F 2 "" H 3050 1900 50  0001 C CNN
+F 3 "" H 3050 1900 50  0001 C CNN
+	1    3050 1900
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
