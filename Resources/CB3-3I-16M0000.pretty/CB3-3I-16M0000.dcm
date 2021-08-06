@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CB3-3I-16M0000
-D CTS, 16 MHz Clock Oscillator, +/-50ppm HCMOS, TTL, 4-Pin SMD CB3-3I-16M0000
-K
-F 
-$ENDCMP
-#
-#End Doc Library

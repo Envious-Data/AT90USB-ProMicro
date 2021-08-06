@@ -1,5 +1,3 @@
 (sym_lib_table
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Resources/Type-C.pretty/Type-C.lib)(options "")(descr ""))
-  (lib (name LFSPXO027118Reel)(type Legacy)(uri ${KIPRJMOD}/Resources/LFSPXO027118Reel.pretty/LFSPXO027118Reel.lib)(options "")(descr ""))
-  (lib (name CB3-3I-16M0000)(type Legacy)(uri ${KIPRJMOD}/Resources/CB3-3I-16M0000.pretty/CB3-3I-16M0000.lib)(options "")(descr ""))
 )
