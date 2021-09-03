@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Resources/Type-C.pretty)(options "")(descr ""))
   (lib (name MechboardsLogo)(type KiCad)(uri ${KIPRJMOD}/Resources/MechboardsLogo.pretty)(options "")(descr ""))
+  (lib (name Graphic)(type KiCad)(uri ${KIPRJMOD}/Resources/Graphic.pretty)(options "")(descr ""))
 )
