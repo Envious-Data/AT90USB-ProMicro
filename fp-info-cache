@@ -1,4 +1,4 @@
-19238617999051380
+19027472376684271
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83138,3 +83138,59 @@ varistor SIOV
 0
 2
 2
+kikit
+Board
+Mark board for extraction
+
+0
+0
+0
+kikit
+Fiducial
+Circular Fiducial
+fiducial
+0
+1
+0
+kikit
+NPTH
+
+
+0
+0
+0
+kikit
+Tab
+A symbol representing annotation for tab placement
+
+0
+0
+0
+mousebites
+Board
+Mark board for extraction
+
+0
+0
+0
+mousebites
+Fiducial
+Circular Fiducial
+fiducial
+0
+1
+0
+mousebites
+NPTH
+
+
+0
+0
+0
+mousebites
+Tab
+A symbol representing annotation for tab placement
+
+0
+0
+0

@@ -2,4 +2,5 @@
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Resources/Type-C.pretty)(options "")(descr ""))
   (lib (name MechboardsLogo)(type KiCad)(uri ${KIPRJMOD}/Resources/MechboardsLogo.pretty)(options "")(descr ""))
   (lib (name Graphic)(type KiCad)(uri ${KIPRJMOD}/Resources/Graphic.pretty)(options "")(descr ""))
+  (lib (name mousebites)(type KiCad)(uri /home/envy/.local/lib/python3.9/site-packages/kikit/resources/kikit.pretty)(options "")(descr ""))
 )
